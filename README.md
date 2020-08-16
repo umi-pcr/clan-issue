@@ -42,3 +42,7 @@ VH boss 无黑骑轴
 - 对公会战有兴趣的团友（没兴趣的都t了.jpg）建议地下城保证深月，黄骑，偶像5星；jjc优先换取猫拳，猫剑至5星；pjjc在狗5星，暴击弓3星的基础上可以考虑将初音换至5星（9月份公会战可能使用）。
 - 注意保持黄骑和黑骑的r8-6暂时不动，刷好r9的装备，关注后续会战作业再考虑是否升rank。
 <img src="preparation/2020-08/images/rank10_3.jpg" style="zoom:50%;" />
+
+## 公会战box练度及出刀排刀 推荐表
+
+![clanbattle](preparation/2020-08/images/clan_battle.jpg)
